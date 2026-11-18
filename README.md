@@ -1,2 +1,2 @@
-# Genai_Project1
+# AI Resume Builder
 Ai Resume Builder
